@@ -29,4 +29,4 @@ The system follows an iterative loop:
 
 # Help Commands
 
-* Access Help Commands: https://github.com/jaisurajk/CodeSlobCleanup/blob/main/docs/help.md
+* Access Help Commands: [here](https://github.com/jaisurajk/CodeSlobCleanup/blob/main/docs/help.md)
